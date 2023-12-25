@@ -39,8 +39,4 @@ Easily convert currencies with this simple web-based Currency Converter. This ap
 - Implement user preferences for default currencies.
 - Enhance the user interface for a more seamless experience.
 
-## Feedback
 
-We value your feedback! If you encounter any issues, have suggestions for improvements, or want to share your thoughts on the Currency Converter, please reach out to us through [email@example.com].
-
-Thank you for using the Currency Converter! We hope it simplifies your currency conversion needs.
